@@ -1,0 +1,39 @@
+# See http://help.github.com/items/gitignore_global
+
+# dependencies
+/node_modules/
+/*.env*
+
+# binary artifacts
+*.png
+*.jpg
+*.jpeg
+
+# Crash Reports
+ crash-reports/
+
+# Report runtime-downloaded maps
+# .map files are not generated together with the source, however they're also
+# downloaded at runtime from CDNs. See #7484#issuecomment-447548137
+*.map
+
+# Debug symbol
+*.dSYm/
+
+# Tmp files
+/tmp/
+
+# vite
+/dist/
+/local/
+//.vite/
+
+# preview
+/.preview/
+
+# production
+/.vercel/
+/*.vercel
+
+# cloudflare
+/.wrangler/env.development/
