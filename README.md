@@ -1,8 +1,8 @@
-# Eclipse Viewer - BarCamp of Astronomy Italy
+# Eclipse Viewer - For BarCamp of Astronomy Italy
 
-**BarCamp of Astronomy Italy - 13° Edizione**
+**BarCamp of Astronomy Cavaglià - 13° Edizione**
 
-Eclipse viewer visualizzatore di eclissi solari e lunari. Questo progetto mostra le eclissi dal 1900 al 2026 con animazione, grafico delle frequenze e dettagli sulle totalità.
+Eclipse viewer, visualizzatore di eclissi solari e lunari. Questo progetto mostra le eclissi dal 1900 al 2026 con animazione, grafico delle frequenze e dettagli sulle totalità.
 
 ## Funzionalità
 
@@ -16,17 +16,15 @@ Eclipse viewer visualizzatore di eclissi solari e lunari. Questo progetto mostra
 
 ## Licenza
 
-Questo progetto è rilasciato sotto la licenza **MIT License**.
-
-Puoi utilizzare, modificare e distribuire questo codice per scopi personali o commerciali, a condizione di includere la copia originale della licenza e il copyright notice.
+Questo progetto è rilasciato sotto la licenza **MIT**.
 
 ## Dati
 
-I dati sulle eclissi provengono da **NASA** (catalogue of solar and lunar eclipses).
+I dati sulle eclissi provengono dai cataloghi **NASA** (catalogue of solar and lunar eclipses).
 
-L'ispirazione per questo visualizzatore è stata presa dal canale **Veritasium**, che ha creato contenuti eccellenti sulle eclissi e sulla meccanica celeste.
+Ad ispirare questo visualizzatore è stato il canale youtube **Veritasium**, con il loro eccellente video sull'eclisse del 12/08/26.
 
-Il codice è stato scritto da zero per questo progetto.
+Il codice è stato scritto da zero per questa conferenza.
 
 ## Come eseguire
 
@@ -42,9 +40,9 @@ Aprire `index.html` in un browser moderno. L'animazione richiede un frame rate f
 
 ## Foto personali
 
-Due foto di eclissi totali sono incluse come "uova di Pasqua" (easter eggs):
+Due foto di eclissi totali sono incluse come **easter eggs**, sono foto prodotte da me e la condivisione separata da questo contenuto necessita di richiesta formale:
 
 - **21 agosto 2017** (USA) - foto Fujifilm X30
 - **12 agosto 2026** (Spagna) - foto iPhone 17 Pro Max
 
-Appaiono solo durante le rispettive eclissi totali, sovrapposte alla grafica normale. Le foto sono incluse nella loro forma originale (quadre, pixel-size), senza ritagli, filtri o ritocchi.
+Appaiono solo durante le rispettive eclissi totali, sovrapposte alla grafica normale.
